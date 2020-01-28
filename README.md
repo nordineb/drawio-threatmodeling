@@ -17,6 +17,9 @@
 
 ![Example Data Flow Diagram](examples/dfd.png)
 
+![Example Data Flow Diagram](examples/data-flow-2.png)
+
+
 ## Attack Trees
 
 [Attack Trees] are another kind of diagramming method that is great for exploring how a threat actor might attain a specific goal, or how an asset might be attacked.
