@@ -16,11 +16,10 @@ This is a collection of custom libraries to turn the free and cross-platform [Dr
 
 ## Installation
 
-1. [Download] and install draw.io for your operating system
-2. Clone or download this repository
-3. Open draw.io application and create a new blank diagram
-4. Click the *File* menu and then click *Open Library...*
-5. Navigate to where you put this project and open one of the xml files
+1. Open draw.io 
+2. Click the File menu and then click Open Library
+   https://raw.githubusercontent.com/nordineb/drawio-threatmodeling/master/attack-tree.xml
+   https://raw.githubusercontent.com/nordineb/drawio-threatmodeling/master/dfd.xml
 6. Start diagramming!
 
 [Draw.io]: https://www.draw.io/
