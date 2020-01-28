@@ -15,8 +15,10 @@
 
 [Data Flow Diagramming] is a simple diagramming technique used to gain an understanding of how data flows in an application or system. DFDs are excellent for getting a bird's-eye view of a system to facilitate threat modeling.
 
+### One example
 ![Example Data Flow Diagram](examples/dfd.png)
 
+### Another example
 ![Example Data Flow Diagram](examples/data-flow-2.png)
 
 
