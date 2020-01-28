@@ -1,6 +1,15 @@
-# Draw.io libraries for threat modeling
+## Installation
 
-This is a collection of custom libraries to turn the free and cross-platform [Draw.io] diagramming application into the perfect tool for threat modeling.
+* Open draw.io 
+* Click the File menu and then click Open Library
+  * https://raw.githubusercontent.com/nordineb/drawio-threatmodeling/master/attack-tree.xml
+  * https://raw.githubusercontent.com/nordineb/drawio-threatmodeling/master/dfd.xml
+* Start diagramming!
+
+[Draw.io]: https://www.draw.io/
+[Data Flow Diagramming]: https://en.wikipedia.org/wiki/Data_flow_diagram
+[Attack Trees]: https://en.wikipedia.org/wiki/Attack_tree
+[Download]: https://about.draw.io/integrations/#integrations_offline
 
 ## Data Flow Diagrams
 
@@ -14,16 +23,5 @@ This is a collection of custom libraries to turn the free and cross-platform [Dr
 
 ![Example Attack Tree diagram](examples/attacktree.png)
 
-## Installation
 
-1. Open draw.io 
-2. Click the File menu and then click Open Library
-   https://raw.githubusercontent.com/nordineb/drawio-threatmodeling/master/attack-tree.xml
-   https://raw.githubusercontent.com/nordineb/drawio-threatmodeling/master/dfd.xml
-6. Start diagramming!
-
-[Draw.io]: https://www.draw.io/
-[Data Flow Diagramming]: https://en.wikipedia.org/wiki/Data_flow_diagram
-[Attack Trees]: https://en.wikipedia.org/wiki/Attack_tree
-[Download]: https://about.draw.io/integrations/#integrations_offline
 
